@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YzZDE4MGNlMDNlNGZhMTI0M2ExMzJiMDhkYmVlOTc3MmFlNTQyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Ll22OhMLAlVDb8UQWe/giphy.gif">
 
-- 🔭 I’m currently learning on **Java, Python and C**
+- 🔭 I’m currently learning **Java, Python and C**
 
 - 🌱 I’m currently working on **getting confortable with coding**
 
