@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm João Vieira</h1>
 <h3 align="center">A Computer Science student from Portugal</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YzZDE4MGNlMDNlNGZhMTI0M2ExMzJiMDhkYmVlOTc3MmFlNTQyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2YzZDE4MGNlMDNlNGZhMTI0M2ExMzJiMDhkYmVlOTc3MmFlNTQyMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jvieir4&label=Profile%20views&color=0e75b6&style=flat" alt="jvieir4" /> </p>
 
 - 🔭 I’m currently learning on **Java, Python and C**
